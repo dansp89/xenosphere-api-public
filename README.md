@@ -1,6 +1,28 @@
-# Plataforma de Negociação Automatizada
+# Plataforma de Negociação Inteligente
 
-Bem-vindo à nossa plataforma de negociação automatizada! Aqui você encontra uma solução completa para operar nos mercados financeiros de forma automatizada e eficiente.
+## 🧠 Inteligência Avançada Integrada
+
+Nossa plataforma incorpora tecnologia de ponta em processamento de linguagem natural e aprendizado de máquina para oferecer uma experiência de negociação verdadeiramente revolucionária:
+
+### Análise Preditiva de Mercado
+- Algoritmos avançados que processam e interpretam dados de mercado em tempo real
+- Identificação de padrões complexos em múltiplos intervalos de tempo
+- Previsões baseadas em análise técnica e sentimento de mercado
+
+### Processamento de Linguagem Natural
+- Compreensão avançada de comandos em linguagem natural
+- Geração de relatórios analíticos detalhados automaticamente
+- Suporte a consultas complexas em linguagem natural
+
+### Aprendizado Contínuo
+- Sistema que evolui com o tempo, aprendendo com cada operação
+- Adaptação automática às condições de mercado em constante mudança
+- Personalização baseada no perfil e histórico do trader
+
+### Automação Inteligente
+- Execução de estratégias complexas com precisão milissegundo
+- Gerenciamento de risco automatizado baseado em aprendizado de máquina
+- Otimização contínua de parâmetros para máxima eficiência
 
 ## 🤖 Bots Disponíveis
 
@@ -60,51 +82,222 @@ Bem-vindo à nossa plataforma de negociação automatizada! Aqui você encontra 
 - 🚨 Alertas de movimentações incomuns
 - 📊 Gráficos em tempo real
 
+### 8. BOT de Arbitragem Triangular
+**Finalidade:** Identifica e explora oportunidades de arbitragem entre três pares de moedas.
+- 🔄 Operações simultâneas em múltiplas corretoras
+- ⚡ Execução em milissegundos
+- 📊 Análise de spreads em tempo real
+- 🔒 Gerenciamento de risco integrado
+- 🌍 Cobertura global de mercados
+
+### 9. BOT de Grid Trading
+**Finalidade:** Estratégia automatizada que opera em mercados laterais.
+- 📊 Criação automática de grids de preços
+- 🔄 Compra na baixa, venda na alta automaticamente
+- ⚙️ Configuração personalizável de níveis
+- 📈 Aproveitamento da volatilidade do mercado
+- 📱 Monitoramento em tempo real
+
+### 10. BOT de Copy Trading Avançado
+**Finalidade:** Replicação automática de operações de traders experientes.
+- 👥 Seleção inteligente de traders para copiar
+- ⚖️ Gerenciamento automático de alocação
+- 📊 Análise de desempenho em tempo real
+- 🔒 Limites personalizáveis por operação
+- 📱 Interface intuitiva de acompanhamento
+
+### 11. BOT de Notícias e Eventos
+**Finalidade:** Operação baseada em notícias e eventos econômicos.
+- 📰 Análise de sentimento em notícias em tempo real
+- ⏰ Execução automática em eventos programados
+- 🌐 Cobertura de múltiplas fontes de notícias
+- 📊 Impacto mensurado em diferentes ativos
+- 🚨 Alertas personalizáveis
+
+### 12. BOT de Market Making
+**Finalidade:** Fornecimento de liquidez com estratégias avançadas.
+- 📊 Gerenciamento automático de book de ofertas
+- ⚡ Ajuste dinâmico de spreads
+- 📈 Otimização de posições em tempo real
+- 🔒 Controle rigoroso de risco
+- 📊 Relatórios detalhados de desempenho
+
 ## 📊 Corretoras Suportadas
 
-### Corretoras de Criptomoedas
-- [x] Binance
-- [x] FTX
-- [x] Coinbase Pro
-- [x] Kraken
-- [x] Bitfinex
-- [x] Huobi
-- [x] KuCoin
-- [x] Bybit
-- [x] OKX
-- [x] Bitstamp
-- [x] Gemini
-- [x] BitMEX
-- [x] Deribit
-- [x] Phemex
-- [x] Gate.io
-- [x] Bitget
-- [x] MEXC
-- [x] OKCoin
-- [x] Bitso
-- [x] Luno
+### Principais Corretoras de Criptomoedas
+- [x] [Binance](https://www.binance.com/) - Maior exchange de criptomoedas do mundo
+- [x] [Coinbase](https://www.coinbase.com/) - Ideal para iniciantes, regulamentada nos EUA
+- [x] [Kraken](https://www.kraken.com/) - Conhecida por segurança e liquidez
+- [x] [KuCoin](https://www.kucoin.com/) - Amplo leque de altcoins
+- [x] [Bybit](https://www.bybit.com/) - Destaque em contratos futuros
+- [x] [OKX](https://www.okx.com/) - Antiga OKEx, grande volume
+- [x] [Bitget](https://www.bitget.com/) - Popular em derivativos
+- [x] [MEXC](https://www.mexc.com/) - Listagem rápida de novas moedas
+- [x] [HTX](https://www.htx.com/) - Antiga Huobi Global
+- [x] [Gate.io](https://www.gate.io/) - Mais de 1.400 criptomoedas
 
-### Corretoras de Forex
-- [x] OANDA
-- [x] FXCM
-- [x] Interactive Brokers
-- [x] Saxo Bank
-- [x] IG Group
-- [x] FOREX.com
-- [x] XTB
-- [x] Pepperstone
-- [x] Plus500
-- [x] eToro
-- [x] AvaTrade
-- [x] IC Markets
-- [x] XM
-- [x] FxPro
-- [x] Admiral Markets
-- [x] ThinkMarkets
-- [x] Tickmill
-- [x] FP Markets
-- [x] OctaFX
-- [x] Exness
+### Corretoras Especializadas
+- [x] [BitMEX](https://www.bitmex.com/) - Pioneira em futuros de Bitcoin
+- [x] [Deribit](https://www.deribit.com/) - Líder em opções de Bitcoin
+- [x] [Bitfinex](https://www.bitfinex.com/) - Para traders experientes
+- [x] [Phemex](https://phemex.com/) - Baixas taxas e contratos futuros
+- [x] [Gemini](https://www.gemini.com/) - Regulamentada nos EUA
+- [x] [Bitstamp](https://www.bitstamp.net/) - Uma das mais antigas
+- [x] [Crypto.com](https://crypto.com/) - Com cartão de débito em cripto
+- [x] [Luno](https://www.luno.com/) - Popular em mercados emergentes
+- [x] [Bitso](https://bitso.com/) - Líder na América Latina
+- [x] [WazirX](https://wazirx.com/) - Maior exchange da Índia
+
+### Corretoras de Forex e Mercado Tradicional
+- [x] [IC Markets](https://www.icmarkets.com/) - Especializada em ECN e Raw Spread
+- [x] [Pepperstone](https://www.pepperstone.com/) - Líder em execução de baixa latência
+- [x] [OANDA](https://www.oanda.com/) - Líder em pares de moedas forex
+- [x] [FXCM](https://www.fxcm.com/) - Especializada em forex e CFDs
+- [x] [Interactive Brokers](https://www.interactivebrokers.com/) - Acesso global a múltiplos mercados
+- [x] [Eightcap](https://www.eightcap.com/) - Foco em criptomoedas e forex
+- [x] [IG Group](https://www.ig.com/) - Maior corretora de CFDs do mundo
+- [x] [FxPro](https://www.fxpro.com/) - Execução sem mesa de operações
+- [x] [FOREX.com](https://www.forex.com/) - Especializada em câmbio
+- [x] [Exness](https://www.exness.com/) - Spreads a partir de 0.0 pips
+- [x] [AvaTrade](https://www.avatrade.com/) - Presente globalmente
+- [x] [XTB](https://www.xtb.com/) - Plataforma avançada xStation
+- [x] [Deriv](https://www.deriv.com/) - Especializada em opções binárias e forex
+- [x] [Hugo's Way](https://www.hugosway.com/) - Alavancagem flexível
+- [x] [Infinox](https://www.infinox.com/) - Trading de forex e metais preciosos
+- [x] [MetaTrader 5](https://www.metatrader5.com/pt) - Plataforma profissional de trading
+- [x] [MetaTrader 4](https://www.metatrader4.com/pt) - Plataforma clássica de trading
+- [x] [QX Broker](https://qxbroker.com/pt/) - Corretora com foco em forex e criptomoedas
+
+### Corretoras com Foco em Derivativos
+- [x] [Binance Futures](https://www.binance.com/en/futures) - Maior volume de futuros
+- [x] [Bybit](https://www.bybit.com/) - Destaque em contratos perpétuos
+- [x] [OKX Futures](https://www.okx.com/futures) - Derivativos da OKX
+- [x] [BitMEX](https://www.bitmex.com/) - Pioneira em alavancagem alta
+- [x] [Deribit](https://www.deribit.com/) - Líder em opções
+- [x] [FTX (em liquidação)](https://ftx.com/) - Em processo de recuperação
+- [x] [Phemex](https://phemex.com/) - Baixas taxas em futuros
+- [x] [dYdX](https://dydx.exchange/) - Protocolo descentralizado
+- [x] [GMX](https://gmx.io/) - Trading de derivativos on-chain
+- [x] [Perpetual Protocol](https://perp.com/) - Futuros perpétuos DeFi
+
+### Lista Completa de Corretoras Suportadas
+
+#### Criptomoedas
+- [x] Alpaca
+- [x] Apex
+- [x] AscendEX
+- [x] Bequant
+- [x] BigONE
+- [x] Binance
+- [x] Binance US
+- [x] BingX
+- [x] Bit2C
+- [x] bitbank
+- [x] Bitbns
+- [x] Bitfinex
+- [x] bitFlyer
+- [x] Bitget
+- [x] Bithumb
+- [x] Bitmart
+- [x] BitMEX
+- [x] BitoPro
+- [x] Bitrue
+- [x] Bitso
+- [x] Bitstamp
+- [x] BIT.TEAM
+- [x] Bitvavo
+- [x] BL3P
+- [x] Blockchain.com
+- [x] Blofin
+- [x] BTC-Alpha
+- [x] BtcBox
+- [x] BTC Markets
+- [x] BTCTurk
+- [x] Bybit
+- [x] CEX.IO
+- [x] Coinbase
+- [x] Coinbase Exchange
+- [x] Coinbase International
+- [x] CoinCatch
+- [x] coincheck
+- [x] CoinEx
+- [x] Coinlist
+- [x] CoinMate
+- [x] Coinmetro
+- [x] CoinOne
+- [x] Coins.ph
+- [x] CoinSpot
+- [x] Crypto.com
+- [x] Cryptomus
+- [x] Delta Exchange
+- [x] Deribit
+- [x] DigiFinex
+- [x] EXMO
+- [x] Gate.io
+- [x] Gemini
+- [x] HashKey Global
+- [x] HitBTC
+- [x] HTX (Huobi)
+- [x] Huobi Japan
+- [x] Hyperliquid
+- [x] IDEX
+- [x] Independent Reserve
+- [x] INDODAX
+- [x] Kraken
+- [x] Kraken Futures
+- [x] KuCoin
+- [x] KuCoin Futures
+- [x] Kuna
+- [x] Latoken
+- [x] LBank
+- [x] luno
+- [x] Mercado Bitcoin
+- [x] MEXC
+- [x] MyOKX (EEA)
+- [x] NDAX
+- [x] NovaDAX
+- [x] OceanEx
+- [x] OKCoin
+- [x] OKX
+- [x] One Trading
+- [x] OXFUN
+- [x] p2b
+- [x] Phemex
+- [x] Poloniex
+- [x] ProBit
+- [x] TimeX
+- [x] Tokocrypto
+- [x] tradeogre
+- [x] Upbit
+- [x] WhiteBit
+- [x] WOO X
+- [x] XT
+- [x] Yobit
+- [x] Zaif
+- [x] Zonda
+... e muito mais no futuro
+
+#### Forex e Mercado Tradicional
+- [x] [IC Markets](https://www.icmarkets.com/)
+- [x] [Pepperstone](https://www.pepperstone.com/)
+- [x] [OANDA](https://www.oanda.com/)
+- [x] [FXCM](https://www.fxcm.com/)
+- [x] [Interactive Brokers](https://www.interactivebrokers.com/)
+- [x] [Eightcap](https://www.eightcap.com/)
+- [x] [IG Group](https://www.ig.com/)
+- [x] [FxPro](https://www.fxpro.com/)
+- [x] [FOREX.com](https://www.forex.com/)
+- [x] [Exness](https://www.exness.com/)
+- [x] [AvaTrade](https://www.avatrade.com/)
+- [x] [XTB](https://www.xtb.com/)
+- [x] [Deriv](https://www.deriv.com/)
+- [x] [Hugo's Way](https://www.hugosway.com/)
+- [x] [Infinox](https://www.infinox.com/)
+- [x] [MetaTrader 5](https://www.metatrader5.com/pt)
+- [x] [MetaTrader 4](https://www.metatrader4.com/pt)
+- [x] [QX Broker](https://qxbroker.com/pt/)
+
+... e muito mais no futuro.
 
 ## 🚀 Como Começar
 
